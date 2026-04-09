@@ -1,0 +1,9 @@
+import Exercises.a02Propositions
+import Exercises.a03Quantifiers
+import Exercises.a05Functions
+import Exercises.a06NaturalNumbers
+import Exercises.a07Choice
+import Exercises.a08Subtypes
+import Exercises.a09Relations
+import Exercises.a10Quotients
+import Exercises.a11Orders
